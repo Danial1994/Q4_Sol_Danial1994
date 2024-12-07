@@ -1,6 +1,7 @@
 # Meds On Chain
-
+ --Availble: Token Generator + Airdrop function--
 Meds On Chain is a developing software solution designed for private health insurances to manage and process medical claims of patients instantly using blockchain technology. The platform aims to enhance transparency and efficiency in insurance claims processing, utilizing tokenized medical services and NFTs to verify service receipt and coverage details.
+--Availble functionalities : Token Generator + Airdrop function--
 
 ## Table of Contents
 
